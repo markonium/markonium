@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markonium
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning computer and systems engineering
+- 🌱 I’m currently studying computer and systems engineering
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: fb.com/Xx.Hackron.xX WhatsApp: +201550324838
 
